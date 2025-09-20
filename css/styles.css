@@ -590,7 +590,7 @@ border: none;}
     padding-right: 16px;
     padding-left: 38px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-        }
+    }
 
 .modal-element {
     width: 100%;
@@ -601,7 +601,6 @@ border: none;}
     color: #2e2f42;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     resize: none;
 }
 
